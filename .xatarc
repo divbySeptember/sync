@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Anthony-Johnson-s-workspace-19l0mc.us-east-1.xata.sh/db/synctrackr",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}

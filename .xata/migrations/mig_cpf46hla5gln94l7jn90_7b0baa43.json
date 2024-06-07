@@ -1,0 +1,31 @@
+{
+  "id": "mig_cpf46hla5gln94l7jn90",
+  "parentID": "mig_cpb0io1vd75k0k8k74v0",
+  "checksum": "1:7b0baa436ca4aa8f39a454f04b464e51e22929bb0e2d74f1b852ea0efc99b14c",
+  "operations": [
+    {
+      "addTable": {
+        "table": "users"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "username",
+          "type": "string"
+        },
+        "table": "users"
+      }
+    },
+    {
+      "addColumn": {
+        "column": {
+          "name": "password",
+          "type": "string",
+          "unique": true
+        },
+        "table": "users"
+      }
+    }
+  ]
+}

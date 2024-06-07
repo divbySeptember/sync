@@ -1,0 +1,16 @@
+{
+  "id": "mig_cpgvjjmerkmntukoh460",
+  "parentID": "mig_cpgvjdmerkmntukoh450",
+  "checksum": "1:f83fff56358f6ad4a8f62746464ed3954d0b8de7cf98bf2e0d54f278a5da4f75",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "cBusiness",
+          "type": "string"
+        },
+        "table": "userContacts"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "mig_cpgvj9qmo6o6tl5jp3k0",
+  "parentID": "mig_cpgvivqmo6o6tl5jp3j0",
+  "checksum": "1:3fc675d889e71f9fca35cd7a371c2c50a1f8a946b979f5e7bd26f3da80428419",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "cName",
+          "type": "string"
+        },
+        "table": "userContacts"
+      }
+    }
+  ]
+}
